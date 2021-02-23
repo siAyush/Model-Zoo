@@ -1,2 +1,8 @@
-# Model_Zoo
-Collection of various deep learning models in Pytorch and Tensorflow2.x .
+# Model-Zoo
+A collection of various deep learning models, in TensorFlow2 and PyTorch.
+
+
+## Basic Models
+* Perceptron 
+    + [PyTorch]()
+    + [TensorFlow]()
