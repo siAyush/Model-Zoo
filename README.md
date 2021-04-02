@@ -15,5 +15,11 @@ A collection of various deep learning models, in TensorFlow2 and PyTorch.
   - TensorFlow : [Github]() | [Nbviewer]()
 
 - Multilayer Perceptron
+
   - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/03_multilayer_perceptron.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/03_multilayer_perceptron.ipynb)
+  - TensorFlow : [Github]() | [Nbviewer]()
+
+- Convolutional Neural Network
+
+  - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/04_cnn.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/04_cnn.ipynb)
   - TensorFlow : [Github]() | [Nbviewer]()
