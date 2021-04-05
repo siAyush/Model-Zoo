@@ -26,10 +26,8 @@ A collection of various deep learning models, in TensorFlow2 and PyTorch.
 
   - LeNet-5 on MNIST
     - PyTorch : [Github]() | [Nbviewer]()
-
   - LeNet-5 on CIFAR-10
     - PyTorch : [Github]() | [Nbviewer]()
-  
   - LeNet-5 on QuickDraw
     - PyTorch : [Github]() | [Nbviewer]()
 
