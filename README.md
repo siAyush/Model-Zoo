@@ -37,4 +37,4 @@ A collection of various deep learning models, in TensorFlow2 and PyTorch.
 - VGG
 
   - VGG-16 Trained on CIFAR-10
-    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/08_vgg16_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/07_vgg16_cifar10.ipynb)
+    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/08_vgg16_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/08_vgg16_cifar10.ipynb)
