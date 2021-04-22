@@ -47,5 +47,5 @@ A collection of various deep learning models, in TensorFlow2 and PyTorch.
     - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/10_resnet34_mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/10_resnet34_mnist.ipynb)
   - ResNet-50 on MNIST
     - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/11_resnet50_mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/11_resnet50_mnist.ipynb)
- 
- 
+  - ResNet-101 on CIFAR-10
+    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/12_resnet101_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/12_resnet101_cifar10.ipynb)
