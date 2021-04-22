@@ -40,3 +40,9 @@ A collection of various deep learning models, in TensorFlow2 and PyTorch.
     - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/08_vgg16_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/08_vgg16_cifar10.ipynb)
   - VGG-19 on CIFAR-10
     - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/09_vgg19_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/09_vgg19_cifar10.ipynb)
+
+- ResNet
+
+  - ResNet-34 on MNIST
+    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/10_resnet34_mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/10_resnet34_mnist.ipynb)
+ 
