@@ -1,6 +1,8 @@
-# Model-Zoo
+<H1> <p style="text-align: center;"> Model Zoo </p></H1>
 
-A collection of various deep learning models, in TensorFlow2 and PyTorch.
+## A collection of various deep learning models, in TensorFlow2 and PyTorch.
+
+![modelzoo](pytorch/image.jpeg)
 
 ## Basic Models
 
@@ -54,4 +56,10 @@ A collection of various deep learning models, in TensorFlow2 and PyTorch.
   
   - Network in Network on CIFAR-10
     - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/13_nin_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/13_nin_cifar10.ipynb)
+
+- DenseNet
   
+  - DenseNet-121 on MNIST
+    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/14_densenet_mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/14_densenet_mnist.ipynb)
+  - DenseNet-121 on CIFAR-10
+    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/15_densenet_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/15_densenet_cifar10.ipynb)
