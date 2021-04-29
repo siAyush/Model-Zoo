@@ -1,6 +1,6 @@
-<H1> <p style="text-align: center;"> Model Zoo </p></H1>
+<H1> <div align="center"> Model Zoo </div></H1>
 
-## A collection of various deep learning models, in TensorFlow2 and PyTorch.
+                      A collection of various deep learning models, in TensorFlow2 and PyTorch.
 
 ![modelzoo](pytorch/image.jpeg)
 
