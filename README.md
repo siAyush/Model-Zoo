@@ -1,6 +1,6 @@
 <H1> <div align="center"> Model Zoo </div></H1>
 
-                      A collection of various deep learning models, in TensorFlow2 and PyTorch.
+                    A collection of various deep learning models, in TensorFlow2 and PyTorch.
 
 ![modelzoo](pytorch/image.jpeg)
 
@@ -59,7 +59,5 @@
 
 - DenseNet
   
-  - DenseNet-121 on MNIST
-    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/14_densenet_mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/14_densenet_mnist.ipynb)
   - DenseNet-121 on CIFAR-10
-    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/15_densenet_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/15_densenet_cifar10.ipynb)
+    - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/14_densenet_cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/14_densenet_cifar10.ipynb)
