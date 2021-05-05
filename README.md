@@ -68,7 +68,9 @@ DenseNet
 ## Transfer Learning
 
 - Transfer Learning Example (VGG16 pre-trained on ImageNet for Cifar-10)
-  - PyTorch : [Github]() | [Nbviewer]()
+  - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/15_transfer_learning.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/15_transfer_learning.ipynb)
+
+
 ## Recurrent Neural Networks (RNNs) 
 
 Many-to-one: Sentiment Analysis / Classification
