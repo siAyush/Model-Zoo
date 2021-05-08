@@ -75,8 +75,12 @@ DenseNet
 
 Many-to-one: Sentiment Analysis / Classification
 
-- A simple single-layer RNN (IMDB)
+- A simple single-layer RNN on IMDB
   - PyTorch : [Github]() | [Nbviewer]()
+
+- RNN with LSTM cells on IMDB
+  - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/17_lstm.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/17_lstm.ipynb)
+
 
 Many-to-Many / Sequence-to-Sequence
 
