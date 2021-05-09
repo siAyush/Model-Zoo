@@ -100,8 +100,13 @@ Variational Autoencoders
   - PyTorch : [Github]() | [Nbviewer]()
 
 
-
 ## Generative Adversarial Networks (GANs)
 
 Fully Connected GAN on MNIST
 - PyTorch : [Github]() | [Nbviewer]()
+
+
+## Graph Neural Networks (GNNs)
+
+- Graph Neural Network 
+  - PyTorch : [Github]() | [Nbviewer]()
