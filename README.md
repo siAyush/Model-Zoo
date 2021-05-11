@@ -90,6 +90,9 @@ Many-to-one: Sentiment Analysis / Classification
 - RNN with LSTM cells on IMDB
   - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/17_lstm.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/17_lstm.ipynb)
 
+- RNN with GRU cells on IMDB 
+  - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/18_gru.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/18_gru.ipynb)
+
 
 Many-to-Many / Sequence-to-Sequence
 
