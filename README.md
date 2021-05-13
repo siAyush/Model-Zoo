@@ -90,7 +90,7 @@ Many-to-one: Sentiment Analysis / Classification
 - RNN with GRU cells on IMDB 
   - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/18_gru.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/18_gru.ipynb)
 - RNN with LSTM cells on IMDB and pre-trained GloVe word vectors
-- PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/19_lstm_glove.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/19_lstm_glove.ipynb)
+  - PyTorch : [Github](https://github.com/siAyush/Model-Zoo/blob/main/pytorch/19_lstm_glove.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/siAyush/Model-Zoo/blob/main/pytorch/19_lstm_glove.ipynb)
 Many-to-Many / Sequence-to-Sequence
 
 - A simple character RNN to generate new text (Charles Dickens)
